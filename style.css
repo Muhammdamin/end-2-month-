@@ -1,0 +1,200 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+.menu {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+
+}
+
+li {
+    padding-top: 40px;
+    list-style: none;
+}
+
+.btn {
+    background-color: aqua;
+    color: white;
+    text-align: center;
+    border: none;
+    border-radius: 24px;
+    width: 120px;
+    height: 30px;
+    margin-left: 650px;
+    margin-top: 45px;
+    align-items: center;
+}
+
+.dad1 {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    align-items: center;
+    margin-top: 40px;
+}
+
+.btn2 {
+    text-align: center;
+    width: 140px;
+    height: 40px;
+    border-radius: 24px;
+    color: black;
+    background-color: aqua;
+    border: none;
+    margin-top: 20px;
+}
+
+main {
+    padding-top: 80px;
+}
+
+.big-dad2 {
+    gap: 400px;
+    display: flex;
+    align-items: center;
+}
+
+.dad3 img {
+    align-items: center;
+    margin-left: 40px;
+    width: 80%;
+}
+
+.peremeshka {
+    width: 900px;
+    height: 100px;
+
+    bottom: 20px;
+    border-radius: 24px;
+    margin-left: 120px;
+    left: 165px;
+    background-color: rgb(6, 100, 241);
+    display: flex;
+    gap: 90px;
+}
+
+.sm-div {
+    background-color: white;
+    position: absolute;
+    bottom: 215px;
+    width: 400px;
+    right: 20px;
+    height: 45px;
+    border-radius: 8px;
+    border: none;
+    left: 180px;
+}
+
+.sm-div p {
+    color: gray;
+    padding-top: 14px;
+    padding-left: 20px;
+}
+
+.sm-div2 {
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: aqua;
+    color: white;
+    position: absolute;
+    bottom: 215px;
+    left: 675px;
+}
+
+.sm-div2 p {
+    padding-top: 8px;
+    text-align: center;
+}
+
+.dad5 h2 {
+    padding-top: 20px;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+.big-dad4 {
+    background-color: rgba(165, 42, 42, 0.292);
+    border: none;
+    border-radius: 10px;
+    position: relative;
+    height: 400px;
+    width: 100%;
+}
+
+.dad5 .btn3 {
+    margin-left: 550px;
+    width: 140px;
+    height: 35px;
+    border: none;
+    border-radius: 12px;
+    background-color: aqua;
+
+}
+
+.dad5 {
+    top: 20px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+
+.logo1 {
+    color: white;
+    padding-top: 80px;
+}
+
+footer .container {
+    background-color: black;
+    padding-top: 80px;
+    display: flex;
+    margin-top: 80px;
+    border: none;
+    border-radius: 4px;
+}
+
+.menu {
+    display: flex;
+    gap: 50px;
+}
+
+.dad-end a {
+    text-decoration: none;
+    color: white;
+    padding-left: 65px;
+}
+.dad-end li{
+    list-style: none;
+    color: white;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+.menu img{
+    padding-left: 60px;
+}
+i{
+    color: white;
+    gap: 40px;
+    font-size: 32px;
+    margin-left: 95px;
+    margin-top: 37px;
+}
+.sm-dad-end2{
+    display: flex;
+}
+.dad-end{
+    display: flex;
+
+}
